@@ -10,7 +10,8 @@ To complete this assignment on your computer:
 4. Commit and sync your local changes to update the code in your GitHub repository. 
 5. Submit the url to your GitHub repository for the assignment on Canvas.  
 
-For the portfolio assignment, you will need to do the following additional steps: 
+For the portfolio assignment, you will need to do the following additional steps:  
+
 6. Create a new notebook in your portfolio repository. 
 7. Concisely duplicate your analysis for a different terrestrial species of your choosing. Only include the code needed to generate the main plots you make. You do not need to include all the code from the original assignment notebooks if it isn't relevant. 
 8. Write a portfolio post explaining your research questions, methods, results, and interpretation. Add your interactive plot to the post, with a title and description of the plot.  
